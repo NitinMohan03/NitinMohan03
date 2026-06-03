@@ -17,12 +17,14 @@
 
 Software engineer with **3 years of experience** building scalable, cloud-native backends and customer-facing applications at **Accenture**, now pursuing my **MS in Computer Science at NYU**. I work across the stack — distributed systems and REST APIs, React frontends, and GenAI/RAG pipelines — and I care about shipping reliable software that holds up under real load.
 
-I'm **open to full-time SWE roles** (Backend, Cloud, Full-Stack, and AI/GenAI Engineering) where the problems are challenging and the impact is real.
+I'm **open to full-time SWE roles** (Software Engineering, Forward Deployed, and Full-Stack) where the problems are challenging and the impact is real.
 
 - 🔭 Reduced data-processing latency **30%** and system response times **35%** on high-volume distributed systems
 - 🛡️ Mitigated **84+ critical security vulnerabilities** across 5 high-traffic enterprise applications
 - ⚙️ Cut production bug backlog **20%** via automated quality gates in CI/CD
 - 🎓 MS CS @ NYU · GPA 3.89 / 4.0
+
+> 🌱 **Currently:** open to full-time roles · building GenAI + data-streaming projects · sharpening DSA and system design
 
 ---
 
@@ -61,24 +63,33 @@ I'm **open to full-time SWE roles** (Backend, Cloud, Full-Stack, and AI/GenAI En
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
+**Data &amp; Streaming**
+
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone%20(Vector)-000000?style=flat)
-![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=flat&logo=timescale&logoColor=black)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
 
 ---
 
 ### 🚀 Featured Projects
 
-**[Research Paper Summarization Tool](#)** — `Python` · `FastAPI` · `RAG` · `GCP` · `Pinecone` · `Docker`
-Cloud-native, serverless GenAI platform with a fault-tolerant RAG ingestion pipeline and a dynamic LLM routing engine for prompt orchestration.
+**[rag-paper-assistant](https://github.com/NitinMohan03/rag-paper-assistant)** — `Python` · `FastAPI` · `RAG` · `Pinecone` · `GCP`
+RAG-powered research assistant: ask questions, generate structured summaries, and auto-create quizzes from academic PDFs — grounded answers via Pinecone vector search and LLM routing through OpenRouter, served by FastAPI on Cloud Run.
 
-**[SafeZone — Real-Time Security Mapping](#)** — `React` · `TypeScript` · `WebSockets` · `Mapbox GL JS`
-Real-time visualization dashboard with role-based access (AWS Cognito), a resilient WebSocket sync layer, and deterministic E2E testing via Playwright.
+**[safezone-campus-safety](https://github.com/NitinMohan03/safezone-campus-safety)** — `React` · `TypeScript` · `Mapbox` · `AWS Cognito`
+Full-stack campus safety platform with real-time incident reporting and mapping, safety-aware route planning, role-based admin moderation, and Cognito authentication.
 
-<sub>📌 Pin these on your profile and add live/repo links above.</sub>
+**[f1-predictive-maintenance](https://github.com/NitinMohan03/f1-predictive-maintenance)** — `Python` · `PySpark` · `Kafka` · `scikit-learn`
+Near-real-time F1 predictive-maintenance pipeline: per-constructor Isolation Forest anomaly detection on telemetry, streamed via Kafka + Spark Structured Streaming to flag pre-failure signals before mechanical DNFs.
+
+<sub>📌 More on my <a href="https://github.com/NitinMohan03?tab=repositories">repositories</a> page.</sub>
 
 ---
 
