@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nitin Mohan 👋</h1>
 
 <p align="center">
-  <b>Software Engineer · Backend &amp; Cloud · Full-Stack · GenAI</b><br>
+  <b>Software Engineer · Forward Deployed Engineer · Backend Engineer</b><br>
   <sub>MS in Computer Science, New York University (May 2027)</sub>
 </p>
 
